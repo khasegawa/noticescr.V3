@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noticescr", "noticescr.vcxproj", "{3CE6E2C6-DC83-4D01-B2CC-DBA59B4ACB31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CE6E2C6-DC83-4D01-B2CC-DBA59B4ACB31}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3CE6E2C6-DC83-4D01-B2CC-DBA59B4ACB31}.Debug|Win32.Build.0 = Debug|Win32
+		{3CE6E2C6-DC83-4D01-B2CC-DBA59B4ACB31}.Release|Win32.ActiveCfg = Release|Win32
+		{3CE6E2C6-DC83-4D01-B2CC-DBA59B4ACB31}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
